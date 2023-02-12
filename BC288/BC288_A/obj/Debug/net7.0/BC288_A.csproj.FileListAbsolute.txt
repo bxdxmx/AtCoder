@@ -1,0 +1,15 @@
+E:\temp\dev\AtCoder\BC288_A\bin\Debug\net7.0\BC288_A.exe
+E:\temp\dev\AtCoder\BC288_A\bin\Debug\net7.0\BC288_A.deps.json
+E:\temp\dev\AtCoder\BC288_A\bin\Debug\net7.0\BC288_A.runtimeconfig.json
+E:\temp\dev\AtCoder\BC288_A\bin\Debug\net7.0\BC288_A.dll
+E:\temp\dev\AtCoder\BC288_A\bin\Debug\net7.0\BC288_A.pdb
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.csproj.AssemblyReference.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.AssemblyInfoInputs.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.AssemblyInfo.cs
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.csproj.CoreCompileInputs.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.dll
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\refint\BC288_A.dll
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.pdb
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\BC288_A.genruntimeconfig.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\net7.0\ref\BC288_A.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ezg0e6l/u3MOhQT5STTryiZkXUCxg44A5KSt11j2x56zJsWudztAU1VWUNeaw11A+BjFu32Vx5qNuYTEV/88rg==",
+  "success": true,
+  "projectFilePath": "E:\\temp\\dev\\AtCoder\\BC288_D\\BC288_D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eiji\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eiji\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\eiji\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\eiji\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\netcoreapp3.1\BC288_A.csproj.AssemblyReference.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\netcoreapp3.1\BC288_A.GeneratedMSBuildEditorConfig.editorconfig
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\netcoreapp3.1\BC288_A.AssemblyInfoInputs.cache
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\netcoreapp3.1\BC288_A.AssemblyInfo.cs
+E:\temp\dev\AtCoder\BC288_A\obj\Debug\netcoreapp3.1\BC288_A.csproj.CoreCompileInputs.cache
